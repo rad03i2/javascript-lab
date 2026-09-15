@@ -17,3 +17,8 @@ A practical front-end playground for browser-based mini projects, UI experiments
 ## Goal
 
 This repository shows small, focused projects that improve DOM handling, browser storage, component thinking, and clean code organization.
+
+## Official links
+
+- Portfolio: https://rdwan.dev
+- Project page: https://rdwan.dev/projects/04-javascript-lab.html
