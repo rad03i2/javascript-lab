@@ -1,0 +1,10 @@
+{
+  "name": "javascript-lab",
+  "version": "1.0.0",
+  "description": "Practical JavaScript lab with reusable algorithms and browser mini-projects.",
+  "type": "module",
+  "scripts": {"test": "node --test", "check": "node --check algorithms/array-utils.js && node --check projects/expense-tracker/app.js && node --check projects/quiz-engine/quiz.js"},
+  "engines": {"node": ">=20"},
+  "author": "Radwan Abdulhadi Ahmed (@rad03i2)",
+  "license": "MIT"
+}
